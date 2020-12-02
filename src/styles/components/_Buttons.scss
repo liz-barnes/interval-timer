@@ -1,0 +1,15 @@
+.clock-btn {
+  padding: 8px 12px;
+  border-radius: 5px;
+  color: $accentColor2;
+  background: $primaryColor;
+  border: 1px solid $accentColor2;
+
+}
+  
+.clock-btn:hover {
+  background: $accentColor1;
+  border: 1px solid $accentColor1;
+  text-decoration: none;
+  color: white;
+}
