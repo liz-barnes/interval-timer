@@ -7,7 +7,7 @@ export default class Timer extends Component {
   render() {
     return (
         <div>
-          <h1 className="mt-5">Timer</h1>
+          {/* <h1 className="mt-5">Timer</h1> */}
           <TimerClock />
         </div>
     );
